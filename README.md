@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]
+# Hi, I'm Velmurugan
 
 I build the **Seyora** product suite — face attendance, clinic admin, and billing.
 
